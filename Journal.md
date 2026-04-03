@@ -5,6 +5,6 @@ I'm working on an HP Victus. I don't want to run its fans at maximum for 20 minu
 To keep the computational load low while still learning core PyTorch and Scikit-Learn fundamentals, I'm avoiding heavy image processing for now and sticking to spreadsheet-style sensor data.
 
 ## Things I did:
-I used AI to create a 10-module syllabus, so I do not get lost in track while learning. 
-I read half of Scott Young's book Ultralearning to learn how to learn...
-I learned some easy numpy functions. 
+I used AI to create a 10-module syllabus, so I do not get lost in track while learning.   
+I read half of Scott Young's book Ultralearning to learn how to learn...  
+I learned some easy numpy functions.   
